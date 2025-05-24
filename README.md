@@ -29,6 +29,9 @@ Este projeto contém testes automatizados E2E (End-to-End) utilizando Cypress pa
 Clone o repositório:  
 ```bash
 https://github.com/sylviavitoria/cypress-automacao
+```
+Vá para a pasta 
+```bash
 cd cypress-automacao
 ```
 
