@@ -1,7 +1,8 @@
 # Cypress E2E Testing - Projeto de Automação
 
 ## 📝 Descrição  
-Este projeto contém testes automatizados E2E (End-to-End) utilizando Cypress para validar o fluxo de login do site **Sauce Demo**.
+Este projeto contém testes automatizados E2E (End-to-End) utilizando Cypress para validar o fluxo de login do site [Sauce Demo](https://www.saucedemo.com/)
+.
 
 ---
 
